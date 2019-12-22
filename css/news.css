@@ -1,0 +1,14 @@
+#news .news-item-button {
+  align-self: center; }
+
+#news .news-item {
+  transition: transform 0.1s ease-in-out; }
+  #news .news-item:hover, #news .news-item:active {
+    transform: scale(1.02); }
+
+#news .news-item-thumbnail {
+  z-index: 1;
+  min-height: 250px; }
+
+#news .news-thumbnail-gallery img {
+  width: 100%; }

@@ -1,0 +1,14 @@
+#team-container .team-member:nth-child(odd) .member-img-container {
+  order: 2; }
+
+#team-container .team-member .member-img-container {
+  min-height: 400px; }
+
+#team-container .team-member .member-social-media img {
+  width: 2em;
+  height: 2em;
+  filter: grayscale(100%);
+  transition: 0.2s linear filter; }
+
+#team-container .team-member .member-social-media .social-media-item:hover img {
+  filter: grayscale(0%); }

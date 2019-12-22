@@ -1,0 +1,19 @@
+#news-item .author-image {
+  width: 2.5em;
+  height: 2.5em;
+  border: 1px solid rgba(0, 0, 0, 0.122);
+  border-radius: 100%; }
+
+#news-item .news-title {
+  margin-top: 200px;
+  margin-bottom: 75px; }
+
+#news-item .background-image-container {
+  height: 500px; }
+
+#news-item .main-content {
+  z-index: 2; }
+
+#news-item .author-image {
+  width: 2em;
+  height: 2em; }

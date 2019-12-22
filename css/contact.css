@@ -1,0 +1,9 @@
+#contact .main-content {
+  top: -100px; }
+
+#contact .google-maps-container {
+  width: 100%;
+  height: 500px; }
+  #contact .google-maps-container iframe {
+    width: 100%;
+    height: 100%; }
